@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Study\c#\variable\obj\Debug\net9.0\variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Study\c#\variable\obj\Debug\net9.0\variable.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Study\c#\variable\obj\Debug\net9.0\variable.AssemblyInfo.cs
+C:\Users\user\Desktop\Study\c#\variable\obj\Debug\net9.0\variable.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Study\c#\variable\bin\Debug\net9.0\variable.exe
+C:\Users\user\Desktop\Study\c#\variable\bin\Debug\net9.0\variable.deps.json
+C:\Users\user\Desktop\Study\c#\variable\bin\Debug\net9.0\variable.runtimeconfig.json
+C:\Users\user\Desktop\Study\c#\variable\bin\Debug\net9.0\variable.dll
+C:\Users\user\Desktop\Study\c#\variable\bin\Debug\net9.0\variable.pdb
+C:\Users\user\Desktop\Study\c#\variable\obj\Debug\net9.0\variable.dll
+C:\Users\user\Desktop\Study\c#\variable\obj\Debug\net9.0\refint\variable.dll
+C:\Users\user\Desktop\Study\c#\variable\obj\Debug\net9.0\variable.pdb
+C:\Users\user\Desktop\Study\c#\variable\obj\Debug\net9.0\variable.genruntimeconfig.cache
+C:\Users\user\Desktop\Study\c#\variable\obj\Debug\net9.0\ref\variable.dll

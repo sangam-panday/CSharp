@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Study\c#\Datatypes\bin\Debug\net9.0\Datatypes.exe
+C:\Users\user\Desktop\Study\c#\Datatypes\bin\Debug\net9.0\Datatypes.deps.json
+C:\Users\user\Desktop\Study\c#\Datatypes\bin\Debug\net9.0\Datatypes.runtimeconfig.json
+C:\Users\user\Desktop\Study\c#\Datatypes\bin\Debug\net9.0\Datatypes.dll
+C:\Users\user\Desktop\Study\c#\Datatypes\bin\Debug\net9.0\Datatypes.pdb
+C:\Users\user\Desktop\Study\c#\Datatypes\obj\Debug\net9.0\Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Study\c#\Datatypes\obj\Debug\net9.0\Datatypes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Study\c#\Datatypes\obj\Debug\net9.0\Datatypes.AssemblyInfo.cs
+C:\Users\user\Desktop\Study\c#\Datatypes\obj\Debug\net9.0\Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Study\c#\Datatypes\obj\Debug\net9.0\Datatypes.dll
+C:\Users\user\Desktop\Study\c#\Datatypes\obj\Debug\net9.0\refint\Datatypes.dll
+C:\Users\user\Desktop\Study\c#\Datatypes\obj\Debug\net9.0\Datatypes.pdb
+C:\Users\user\Desktop\Study\c#\Datatypes\obj\Debug\net9.0\Datatypes.genruntimeconfig.cache
+C:\Users\user\Desktop\Study\c#\Datatypes\obj\Debug\net9.0\ref\Datatypes.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Study\c#\Literals\bin\Debug\net9.0\Literals.exe
+C:\Users\user\Desktop\Study\c#\Literals\bin\Debug\net9.0\Literals.deps.json
+C:\Users\user\Desktop\Study\c#\Literals\bin\Debug\net9.0\Literals.runtimeconfig.json
+C:\Users\user\Desktop\Study\c#\Literals\bin\Debug\net9.0\Literals.dll
+C:\Users\user\Desktop\Study\c#\Literals\bin\Debug\net9.0\Literals.pdb
+C:\Users\user\Desktop\Study\c#\Literals\obj\Debug\net9.0\Literals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Study\c#\Literals\obj\Debug\net9.0\Literals.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Study\c#\Literals\obj\Debug\net9.0\Literals.AssemblyInfo.cs
+C:\Users\user\Desktop\Study\c#\Literals\obj\Debug\net9.0\Literals.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Study\c#\Literals\obj\Debug\net9.0\Literals.dll
+C:\Users\user\Desktop\Study\c#\Literals\obj\Debug\net9.0\refint\Literals.dll
+C:\Users\user\Desktop\Study\c#\Literals\obj\Debug\net9.0\Literals.pdb
+C:\Users\user\Desktop\Study\c#\Literals\obj\Debug\net9.0\Literals.genruntimeconfig.cache
+C:\Users\user\Desktop\Study\c#\Literals\obj\Debug\net9.0\ref\Literals.dll

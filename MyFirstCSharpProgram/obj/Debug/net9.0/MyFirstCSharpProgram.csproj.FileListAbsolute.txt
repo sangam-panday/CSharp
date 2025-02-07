@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Study\c#\MyFirstCSharpProgram\bin\Debug\net9.0\MyFirstCSharpProgram.exe
+C:\Users\user\Desktop\Study\c#\MyFirstCSharpProgram\bin\Debug\net9.0\MyFirstCSharpProgram.deps.json
+C:\Users\user\Desktop\Study\c#\MyFirstCSharpProgram\bin\Debug\net9.0\MyFirstCSharpProgram.runtimeconfig.json
+C:\Users\user\Desktop\Study\c#\MyFirstCSharpProgram\bin\Debug\net9.0\MyFirstCSharpProgram.dll
+C:\Users\user\Desktop\Study\c#\MyFirstCSharpProgram\bin\Debug\net9.0\MyFirstCSharpProgram.pdb
+C:\Users\user\Desktop\Study\c#\MyFirstCSharpProgram\obj\Debug\net9.0\MyFirstCSharpProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Study\c#\MyFirstCSharpProgram\obj\Debug\net9.0\MyFirstCSharpProgram.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Study\c#\MyFirstCSharpProgram\obj\Debug\net9.0\MyFirstCSharpProgram.AssemblyInfo.cs
+C:\Users\user\Desktop\Study\c#\MyFirstCSharpProgram\obj\Debug\net9.0\MyFirstCSharpProgram.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Study\c#\MyFirstCSharpProgram\obj\Debug\net9.0\MyFirstCSharpProgram.dll
+C:\Users\user\Desktop\Study\c#\MyFirstCSharpProgram\obj\Debug\net9.0\refint\MyFirstCSharpProgram.dll
+C:\Users\user\Desktop\Study\c#\MyFirstCSharpProgram\obj\Debug\net9.0\MyFirstCSharpProgram.pdb
+C:\Users\user\Desktop\Study\c#\MyFirstCSharpProgram\obj\Debug\net9.0\MyFirstCSharpProgram.genruntimeconfig.cache
+C:\Users\user\Desktop\Study\c#\MyFirstCSharpProgram\obj\Debug\net9.0\ref\MyFirstCSharpProgram.dll
