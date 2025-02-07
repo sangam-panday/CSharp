@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Study\c#\InputOutput\bin\Debug\net9.0\InputOutput.exe
+C:\Users\user\Desktop\Study\c#\InputOutput\bin\Debug\net9.0\InputOutput.deps.json
+C:\Users\user\Desktop\Study\c#\InputOutput\bin\Debug\net9.0\InputOutput.runtimeconfig.json
+C:\Users\user\Desktop\Study\c#\InputOutput\bin\Debug\net9.0\InputOutput.dll
+C:\Users\user\Desktop\Study\c#\InputOutput\bin\Debug\net9.0\InputOutput.pdb
+C:\Users\user\Desktop\Study\c#\InputOutput\obj\Debug\net9.0\InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Study\c#\InputOutput\obj\Debug\net9.0\InputOutput.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Study\c#\InputOutput\obj\Debug\net9.0\InputOutput.AssemblyInfo.cs
+C:\Users\user\Desktop\Study\c#\InputOutput\obj\Debug\net9.0\InputOutput.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Study\c#\InputOutput\obj\Debug\net9.0\InputOutput.sourcelink.json
+C:\Users\user\Desktop\Study\c#\InputOutput\obj\Debug\net9.0\InputOutput.dll
+C:\Users\user\Desktop\Study\c#\InputOutput\obj\Debug\net9.0\refint\InputOutput.dll
+C:\Users\user\Desktop\Study\c#\InputOutput\obj\Debug\net9.0\InputOutput.pdb
+C:\Users\user\Desktop\Study\c#\InputOutput\obj\Debug\net9.0\InputOutput.genruntimeconfig.cache
+C:\Users\user\Desktop\Study\c#\InputOutput\obj\Debug\net9.0\ref\InputOutput.dll
