@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Study\c#\ReadOnly\bin\Debug\net9.0\ReadOnly.exe
+C:\Users\user\Desktop\Study\c#\ReadOnly\bin\Debug\net9.0\ReadOnly.deps.json
+C:\Users\user\Desktop\Study\c#\ReadOnly\bin\Debug\net9.0\ReadOnly.runtimeconfig.json
+C:\Users\user\Desktop\Study\c#\ReadOnly\bin\Debug\net9.0\ReadOnly.dll
+C:\Users\user\Desktop\Study\c#\ReadOnly\bin\Debug\net9.0\ReadOnly.pdb
+C:\Users\user\Desktop\Study\c#\ReadOnly\obj\Debug\net9.0\ReadOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Study\c#\ReadOnly\obj\Debug\net9.0\ReadOnly.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Study\c#\ReadOnly\obj\Debug\net9.0\ReadOnly.AssemblyInfo.cs
+C:\Users\user\Desktop\Study\c#\ReadOnly\obj\Debug\net9.0\ReadOnly.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Study\c#\ReadOnly\obj\Debug\net9.0\ReadOnly.sourcelink.json
+C:\Users\user\Desktop\Study\c#\ReadOnly\obj\Debug\net9.0\ReadOnly.dll
+C:\Users\user\Desktop\Study\c#\ReadOnly\obj\Debug\net9.0\refint\ReadOnly.dll
+C:\Users\user\Desktop\Study\c#\ReadOnly\obj\Debug\net9.0\ReadOnly.pdb
+C:\Users\user\Desktop\Study\c#\ReadOnly\obj\Debug\net9.0\ReadOnly.genruntimeconfig.cache
+C:\Users\user\Desktop\Study\c#\ReadOnly\obj\Debug\net9.0\ref\ReadOnly.dll
