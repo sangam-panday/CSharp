@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Study\c#\tempconv\bin\Debug\net9.0\tempconv.exe
+C:\Users\user\Desktop\Study\c#\tempconv\bin\Debug\net9.0\tempconv.deps.json
+C:\Users\user\Desktop\Study\c#\tempconv\bin\Debug\net9.0\tempconv.runtimeconfig.json
+C:\Users\user\Desktop\Study\c#\tempconv\bin\Debug\net9.0\tempconv.dll
+C:\Users\user\Desktop\Study\c#\tempconv\bin\Debug\net9.0\tempconv.pdb
+C:\Users\user\Desktop\Study\c#\tempconv\obj\Debug\net9.0\tempconv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Study\c#\tempconv\obj\Debug\net9.0\tempconv.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Study\c#\tempconv\obj\Debug\net9.0\tempconv.AssemblyInfo.cs
+C:\Users\user\Desktop\Study\c#\tempconv\obj\Debug\net9.0\tempconv.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Study\c#\tempconv\obj\Debug\net9.0\tempconv.sourcelink.json
+C:\Users\user\Desktop\Study\c#\tempconv\obj\Debug\net9.0\tempconv.dll
+C:\Users\user\Desktop\Study\c#\tempconv\obj\Debug\net9.0\refint\tempconv.dll
+C:\Users\user\Desktop\Study\c#\tempconv\obj\Debug\net9.0\tempconv.pdb
+C:\Users\user\Desktop\Study\c#\tempconv\obj\Debug\net9.0\tempconv.genruntimeconfig.cache
+C:\Users\user\Desktop\Study\c#\tempconv\obj\Debug\net9.0\ref\tempconv.dll
