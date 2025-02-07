@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Study\c#\CallByReference\bin\Debug\net9.0\CallByReference.exe
+C:\Users\user\Desktop\Study\c#\CallByReference\bin\Debug\net9.0\CallByReference.deps.json
+C:\Users\user\Desktop\Study\c#\CallByReference\bin\Debug\net9.0\CallByReference.runtimeconfig.json
+C:\Users\user\Desktop\Study\c#\CallByReference\bin\Debug\net9.0\CallByReference.dll
+C:\Users\user\Desktop\Study\c#\CallByReference\bin\Debug\net9.0\CallByReference.pdb
+C:\Users\user\Desktop\Study\c#\CallByReference\obj\Debug\net9.0\CallByReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Study\c#\CallByReference\obj\Debug\net9.0\CallByReference.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Study\c#\CallByReference\obj\Debug\net9.0\CallByReference.AssemblyInfo.cs
+C:\Users\user\Desktop\Study\c#\CallByReference\obj\Debug\net9.0\CallByReference.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Study\c#\CallByReference\obj\Debug\net9.0\CallByReference.sourcelink.json
+C:\Users\user\Desktop\Study\c#\CallByReference\obj\Debug\net9.0\CallByReference.dll
+C:\Users\user\Desktop\Study\c#\CallByReference\obj\Debug\net9.0\refint\CallByReference.dll
+C:\Users\user\Desktop\Study\c#\CallByReference\obj\Debug\net9.0\CallByReference.pdb
+C:\Users\user\Desktop\Study\c#\CallByReference\obj\Debug\net9.0\CallByReference.genruntimeconfig.cache
+C:\Users\user\Desktop\Study\c#\CallByReference\obj\Debug\net9.0\ref\CallByReference.dll

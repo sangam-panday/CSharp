@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Study\c#\Functions\bin\Debug\net9.0\Functions.exe
+C:\Users\user\Desktop\Study\c#\Functions\bin\Debug\net9.0\Functions.deps.json
+C:\Users\user\Desktop\Study\c#\Functions\bin\Debug\net9.0\Functions.runtimeconfig.json
+C:\Users\user\Desktop\Study\c#\Functions\bin\Debug\net9.0\Functions.dll
+C:\Users\user\Desktop\Study\c#\Functions\bin\Debug\net9.0\Functions.pdb
+C:\Users\user\Desktop\Study\c#\Functions\obj\Debug\net9.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Study\c#\Functions\obj\Debug\net9.0\Functions.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Study\c#\Functions\obj\Debug\net9.0\Functions.AssemblyInfo.cs
+C:\Users\user\Desktop\Study\c#\Functions\obj\Debug\net9.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Study\c#\Functions\obj\Debug\net9.0\Functions.sourcelink.json
+C:\Users\user\Desktop\Study\c#\Functions\obj\Debug\net9.0\Functions.dll
+C:\Users\user\Desktop\Study\c#\Functions\obj\Debug\net9.0\refint\Functions.dll
+C:\Users\user\Desktop\Study\c#\Functions\obj\Debug\net9.0\Functions.pdb
+C:\Users\user\Desktop\Study\c#\Functions\obj\Debug\net9.0\Functions.genruntimeconfig.cache
+C:\Users\user\Desktop\Study\c#\Functions\obj\Debug\net9.0\ref\Functions.dll
