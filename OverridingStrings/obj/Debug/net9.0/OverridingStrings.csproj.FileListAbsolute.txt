@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Study\c#\OverridingStrings\obj\Debug\net9.0\OverridingStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Study\c#\OverridingStrings\obj\Debug\net9.0\OverridingStrings.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Study\c#\OverridingStrings\obj\Debug\net9.0\OverridingStrings.AssemblyInfo.cs
+C:\Users\user\Desktop\Study\c#\OverridingStrings\obj\Debug\net9.0\OverridingStrings.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Study\c#\OverridingStrings\obj\Debug\net9.0\OverridingStrings.sourcelink.json
+C:\Users\user\Desktop\Study\c#\OverridingStrings\bin\Debug\net9.0\OverridingStrings.exe
+C:\Users\user\Desktop\Study\c#\OverridingStrings\bin\Debug\net9.0\OverridingStrings.deps.json
+C:\Users\user\Desktop\Study\c#\OverridingStrings\bin\Debug\net9.0\OverridingStrings.runtimeconfig.json
+C:\Users\user\Desktop\Study\c#\OverridingStrings\bin\Debug\net9.0\OverridingStrings.dll
+C:\Users\user\Desktop\Study\c#\OverridingStrings\bin\Debug\net9.0\OverridingStrings.pdb
+C:\Users\user\Desktop\Study\c#\OverridingStrings\obj\Debug\net9.0\OverridingStrings.dll
+C:\Users\user\Desktop\Study\c#\OverridingStrings\obj\Debug\net9.0\refint\OverridingStrings.dll
+C:\Users\user\Desktop\Study\c#\OverridingStrings\obj\Debug\net9.0\OverridingStrings.pdb
+C:\Users\user\Desktop\Study\c#\OverridingStrings\obj\Debug\net9.0\OverridingStrings.genruntimeconfig.cache
+C:\Users\user\Desktop\Study\c#\OverridingStrings\obj\Debug\net9.0\ref\OverridingStrings.dll
