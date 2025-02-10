@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Study\c#\equalsop\bin\Debug\net9.0\equalsop.exe
+C:\Users\user\Desktop\Study\c#\equalsop\bin\Debug\net9.0\equalsop.deps.json
+C:\Users\user\Desktop\Study\c#\equalsop\bin\Debug\net9.0\equalsop.runtimeconfig.json
+C:\Users\user\Desktop\Study\c#\equalsop\bin\Debug\net9.0\equalsop.dll
+C:\Users\user\Desktop\Study\c#\equalsop\bin\Debug\net9.0\equalsop.pdb
+C:\Users\user\Desktop\Study\c#\equalsop\obj\Debug\net9.0\equalsop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Study\c#\equalsop\obj\Debug\net9.0\equalsop.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Study\c#\equalsop\obj\Debug\net9.0\equalsop.AssemblyInfo.cs
+C:\Users\user\Desktop\Study\c#\equalsop\obj\Debug\net9.0\equalsop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Study\c#\equalsop\obj\Debug\net9.0\equalsop.sourcelink.json
+C:\Users\user\Desktop\Study\c#\equalsop\obj\Debug\net9.0\equalsop.dll
+C:\Users\user\Desktop\Study\c#\equalsop\obj\Debug\net9.0\refint\equalsop.dll
+C:\Users\user\Desktop\Study\c#\equalsop\obj\Debug\net9.0\equalsop.pdb
+C:\Users\user\Desktop\Study\c#\equalsop\obj\Debug\net9.0\equalsop.genruntimeconfig.cache
+C:\Users\user\Desktop\Study\c#\equalsop\obj\Debug\net9.0\ref\equalsop.dll

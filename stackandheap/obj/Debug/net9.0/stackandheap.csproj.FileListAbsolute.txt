@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Study\c#\stackandheap\obj\Debug\net9.0\stackandheap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Study\c#\stackandheap\obj\Debug\net9.0\stackandheap.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Study\c#\stackandheap\obj\Debug\net9.0\stackandheap.AssemblyInfo.cs
+C:\Users\user\Desktop\Study\c#\stackandheap\obj\Debug\net9.0\stackandheap.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Study\c#\stackandheap\obj\Debug\net9.0\stackandheap.sourcelink.json
+C:\Users\user\Desktop\Study\c#\stackandheap\bin\Debug\net9.0\stackandheap.exe
+C:\Users\user\Desktop\Study\c#\stackandheap\bin\Debug\net9.0\stackandheap.deps.json
+C:\Users\user\Desktop\Study\c#\stackandheap\bin\Debug\net9.0\stackandheap.runtimeconfig.json
+C:\Users\user\Desktop\Study\c#\stackandheap\bin\Debug\net9.0\stackandheap.dll
+C:\Users\user\Desktop\Study\c#\stackandheap\bin\Debug\net9.0\stackandheap.pdb
+C:\Users\user\Desktop\Study\c#\stackandheap\obj\Debug\net9.0\stackandheap.dll
+C:\Users\user\Desktop\Study\c#\stackandheap\obj\Debug\net9.0\refint\stackandheap.dll
+C:\Users\user\Desktop\Study\c#\stackandheap\obj\Debug\net9.0\stackandheap.pdb
+C:\Users\user\Desktop\Study\c#\stackandheap\obj\Debug\net9.0\stackandheap.genruntimeconfig.cache
+C:\Users\user\Desktop\Study\c#\stackandheap\obj\Debug\net9.0\ref\stackandheap.dll

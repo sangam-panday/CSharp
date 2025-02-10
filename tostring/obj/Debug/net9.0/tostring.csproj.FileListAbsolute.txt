@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Study\c#\tostring\bin\Debug\net9.0\tostring.exe
+C:\Users\user\Desktop\Study\c#\tostring\bin\Debug\net9.0\tostring.deps.json
+C:\Users\user\Desktop\Study\c#\tostring\bin\Debug\net9.0\tostring.runtimeconfig.json
+C:\Users\user\Desktop\Study\c#\tostring\bin\Debug\net9.0\tostring.dll
+C:\Users\user\Desktop\Study\c#\tostring\bin\Debug\net9.0\tostring.pdb
+C:\Users\user\Desktop\Study\c#\tostring\obj\Debug\net9.0\tostring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Study\c#\tostring\obj\Debug\net9.0\tostring.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Study\c#\tostring\obj\Debug\net9.0\tostring.AssemblyInfo.cs
+C:\Users\user\Desktop\Study\c#\tostring\obj\Debug\net9.0\tostring.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Study\c#\tostring\obj\Debug\net9.0\tostring.sourcelink.json
+C:\Users\user\Desktop\Study\c#\tostring\obj\Debug\net9.0\tostring.dll
+C:\Users\user\Desktop\Study\c#\tostring\obj\Debug\net9.0\refint\tostring.dll
+C:\Users\user\Desktop\Study\c#\tostring\obj\Debug\net9.0\tostring.pdb
+C:\Users\user\Desktop\Study\c#\tostring\obj\Debug\net9.0\tostring.genruntimeconfig.cache
+C:\Users\user\Desktop\Study\c#\tostring\obj\Debug\net9.0\ref\tostring.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Study\c#\candunKeywords\bin\Debug\net9.0\candunKeywords.exe
+C:\Users\user\Desktop\Study\c#\candunKeywords\bin\Debug\net9.0\candunKeywords.deps.json
+C:\Users\user\Desktop\Study\c#\candunKeywords\bin\Debug\net9.0\candunKeywords.runtimeconfig.json
+C:\Users\user\Desktop\Study\c#\candunKeywords\bin\Debug\net9.0\candunKeywords.dll
+C:\Users\user\Desktop\Study\c#\candunKeywords\bin\Debug\net9.0\candunKeywords.pdb
+C:\Users\user\Desktop\Study\c#\candunKeywords\obj\Debug\net9.0\candunKeywords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Study\c#\candunKeywords\obj\Debug\net9.0\candunKeywords.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Study\c#\candunKeywords\obj\Debug\net9.0\candunKeywords.AssemblyInfo.cs
+C:\Users\user\Desktop\Study\c#\candunKeywords\obj\Debug\net9.0\candunKeywords.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Study\c#\candunKeywords\obj\Debug\net9.0\candunKeywords.sourcelink.json
+C:\Users\user\Desktop\Study\c#\candunKeywords\obj\Debug\net9.0\candunKeywords.dll
+C:\Users\user\Desktop\Study\c#\candunKeywords\obj\Debug\net9.0\refint\candunKeywords.dll
+C:\Users\user\Desktop\Study\c#\candunKeywords\obj\Debug\net9.0\candunKeywords.pdb
+C:\Users\user\Desktop\Study\c#\candunKeywords\obj\Debug\net9.0\candunKeywords.genruntimeconfig.cache
+C:\Users\user\Desktop\Study\c#\candunKeywords\obj\Debug\net9.0\ref\candunKeywords.dll
