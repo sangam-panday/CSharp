@@ -34,7 +34,7 @@ namespace Constructor
             // i = 100;
             // j = 200;
             // Console.WriteLine("The value of i is {0} and j is {1}",i,j);
-            Console.WriteLine("Inside main function ");
+            // Console.WriteLine("Inside main function ");
             Program p1 = new Program(1);
             Program p2 = new Program(2);
             Console.WriteLine("Value of first constructor is {0} and second is {1}", p1.x, p2.x);

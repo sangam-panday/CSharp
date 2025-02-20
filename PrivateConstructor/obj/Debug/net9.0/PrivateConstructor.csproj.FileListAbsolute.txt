@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Study\c#\PrivateConstructor\obj\Debug\net9.0\PrivateConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Study\c#\PrivateConstructor\obj\Debug\net9.0\PrivateConstructor.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Study\c#\PrivateConstructor\obj\Debug\net9.0\PrivateConstructor.AssemblyInfo.cs
+C:\Users\user\Desktop\Study\c#\PrivateConstructor\obj\Debug\net9.0\PrivateConstructor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Study\c#\PrivateConstructor\obj\Debug\net9.0\PrivateConstructor.sourcelink.json
+C:\Users\user\Desktop\Study\c#\PrivateConstructor\bin\Debug\net9.0\PrivateConstructor.exe
+C:\Users\user\Desktop\Study\c#\PrivateConstructor\bin\Debug\net9.0\PrivateConstructor.deps.json
+C:\Users\user\Desktop\Study\c#\PrivateConstructor\bin\Debug\net9.0\PrivateConstructor.runtimeconfig.json
+C:\Users\user\Desktop\Study\c#\PrivateConstructor\bin\Debug\net9.0\PrivateConstructor.dll
+C:\Users\user\Desktop\Study\c#\PrivateConstructor\bin\Debug\net9.0\PrivateConstructor.pdb
+C:\Users\user\Desktop\Study\c#\PrivateConstructor\obj\Debug\net9.0\PrivateConstructor.dll
+C:\Users\user\Desktop\Study\c#\PrivateConstructor\obj\Debug\net9.0\refint\PrivateConstructor.dll
+C:\Users\user\Desktop\Study\c#\PrivateConstructor\obj\Debug\net9.0\PrivateConstructor.pdb
+C:\Users\user\Desktop\Study\c#\PrivateConstructor\obj\Debug\net9.0\PrivateConstructor.genruntimeconfig.cache
+C:\Users\user\Desktop\Study\c#\PrivateConstructor\obj\Debug\net9.0\ref\PrivateConstructor.dll

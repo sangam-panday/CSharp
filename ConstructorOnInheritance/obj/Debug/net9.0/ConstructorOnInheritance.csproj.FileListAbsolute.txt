@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Study\c#\ConstructorOnInheritance\bin\Debug\net9.0\ConstructorOnInheritance.exe
+C:\Users\user\Desktop\Study\c#\ConstructorOnInheritance\bin\Debug\net9.0\ConstructorOnInheritance.deps.json
+C:\Users\user\Desktop\Study\c#\ConstructorOnInheritance\bin\Debug\net9.0\ConstructorOnInheritance.runtimeconfig.json
+C:\Users\user\Desktop\Study\c#\ConstructorOnInheritance\bin\Debug\net9.0\ConstructorOnInheritance.dll
+C:\Users\user\Desktop\Study\c#\ConstructorOnInheritance\bin\Debug\net9.0\ConstructorOnInheritance.pdb
+C:\Users\user\Desktop\Study\c#\ConstructorOnInheritance\obj\Debug\net9.0\ConstructorOnInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Study\c#\ConstructorOnInheritance\obj\Debug\net9.0\ConstructorOnInheritance.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Study\c#\ConstructorOnInheritance\obj\Debug\net9.0\ConstructorOnInheritance.AssemblyInfo.cs
+C:\Users\user\Desktop\Study\c#\ConstructorOnInheritance\obj\Debug\net9.0\ConstructorOnInheritance.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Study\c#\ConstructorOnInheritance\obj\Debug\net9.0\ConstructorOnInheritance.sourcelink.json
+C:\Users\user\Desktop\Study\c#\ConstructorOnInheritance\obj\Debug\net9.0\ConstructorOnInheritance.dll
+C:\Users\user\Desktop\Study\c#\ConstructorOnInheritance\obj\Debug\net9.0\refint\ConstructorOnInheritance.dll
+C:\Users\user\Desktop\Study\c#\ConstructorOnInheritance\obj\Debug\net9.0\ConstructorOnInheritance.pdb
+C:\Users\user\Desktop\Study\c#\ConstructorOnInheritance\obj\Debug\net9.0\ConstructorOnInheritance.genruntimeconfig.cache
+C:\Users\user\Desktop\Study\c#\ConstructorOnInheritance\obj\Debug\net9.0\ref\ConstructorOnInheritance.dll
