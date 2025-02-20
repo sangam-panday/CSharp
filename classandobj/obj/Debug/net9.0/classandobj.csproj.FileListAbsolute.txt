@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Study\c#\classandobj\obj\Debug\net9.0\classandobj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Study\c#\classandobj\obj\Debug\net9.0\classandobj.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Study\c#\classandobj\obj\Debug\net9.0\classandobj.AssemblyInfo.cs
+C:\Users\user\Desktop\Study\c#\classandobj\obj\Debug\net9.0\classandobj.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Study\c#\classandobj\obj\Debug\net9.0\classandobj.sourcelink.json
+C:\Users\user\Desktop\Study\c#\classandobj\bin\Debug\net9.0\classandobj.exe
+C:\Users\user\Desktop\Study\c#\classandobj\bin\Debug\net9.0\classandobj.deps.json
+C:\Users\user\Desktop\Study\c#\classandobj\bin\Debug\net9.0\classandobj.runtimeconfig.json
+C:\Users\user\Desktop\Study\c#\classandobj\bin\Debug\net9.0\classandobj.dll
+C:\Users\user\Desktop\Study\c#\classandobj\bin\Debug\net9.0\classandobj.pdb
+C:\Users\user\Desktop\Study\c#\classandobj\obj\Debug\net9.0\classandobj.dll
+C:\Users\user\Desktop\Study\c#\classandobj\obj\Debug\net9.0\refint\classandobj.dll
+C:\Users\user\Desktop\Study\c#\classandobj\obj\Debug\net9.0\classandobj.pdb
+C:\Users\user\Desktop\Study\c#\classandobj\obj\Debug\net9.0\classandobj.genruntimeconfig.cache
+C:\Users\user\Desktop\Study\c#\classandobj\obj\Debug\net9.0\ref\classandobj.dll

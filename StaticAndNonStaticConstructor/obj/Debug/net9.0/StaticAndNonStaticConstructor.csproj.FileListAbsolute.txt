@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Study\c#\StaticAndNonStaticConstructor\bin\Debug\net9.0\StaticAndNonStaticConstructor.exe
+C:\Users\user\Desktop\Study\c#\StaticAndNonStaticConstructor\bin\Debug\net9.0\StaticAndNonStaticConstructor.deps.json
+C:\Users\user\Desktop\Study\c#\StaticAndNonStaticConstructor\bin\Debug\net9.0\StaticAndNonStaticConstructor.runtimeconfig.json
+C:\Users\user\Desktop\Study\c#\StaticAndNonStaticConstructor\bin\Debug\net9.0\StaticAndNonStaticConstructor.dll
+C:\Users\user\Desktop\Study\c#\StaticAndNonStaticConstructor\bin\Debug\net9.0\StaticAndNonStaticConstructor.pdb
+C:\Users\user\Desktop\Study\c#\StaticAndNonStaticConstructor\obj\Debug\net9.0\StaticAndNonStaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Study\c#\StaticAndNonStaticConstructor\obj\Debug\net9.0\StaticAndNonStaticConstructor.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Study\c#\StaticAndNonStaticConstructor\obj\Debug\net9.0\StaticAndNonStaticConstructor.AssemblyInfo.cs
+C:\Users\user\Desktop\Study\c#\StaticAndNonStaticConstructor\obj\Debug\net9.0\StaticAndNonStaticConstructor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Study\c#\StaticAndNonStaticConstructor\obj\Debug\net9.0\StaticAndNonStaticConstructor.sourcelink.json
+C:\Users\user\Desktop\Study\c#\StaticAndNonStaticConstructor\obj\Debug\net9.0\StaticAndNonStaticConstructor.dll
+C:\Users\user\Desktop\Study\c#\StaticAndNonStaticConstructor\obj\Debug\net9.0\refint\StaticAndNonStaticConstructor.dll
+C:\Users\user\Desktop\Study\c#\StaticAndNonStaticConstructor\obj\Debug\net9.0\StaticAndNonStaticConstructor.pdb
+C:\Users\user\Desktop\Study\c#\StaticAndNonStaticConstructor\obj\Debug\net9.0\StaticAndNonStaticConstructor.genruntimeconfig.cache
+C:\Users\user\Desktop\Study\c#\StaticAndNonStaticConstructor\obj\Debug\net9.0\ref\StaticAndNonStaticConstructor.dll
